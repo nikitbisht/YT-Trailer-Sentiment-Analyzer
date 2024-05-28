@@ -25,7 +25,7 @@ git clone https://github.com/nikitbisht/YT-Trailer-Sentiment-Analyzer.git
 cd yt-trailer-sentiment-analyzer
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 
 ## Contributing
 
